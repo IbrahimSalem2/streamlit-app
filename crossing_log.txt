@@ -1,0 +1,53 @@
+2024-10-05 18:34:21 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed 4 lines in 1.27 seconds
+2024-10-05 18:34:23 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed 4 lines in 1.27 seconds
+2024-10-05 18:34:24 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed 4 lines in 1.27 seconds
+2024-10-05 18:34:24 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed 4 lines in 1.27 seconds
+plate 7093 H R D with Class ID 7 crossed 2 distinct lines:
+
+  - Line ID: 3, Minimum Distance: 0.00, Timestamp: 2024-09-22 20:29:54
+
+  - Line ID: 2, Minimum Distance: 2.24, Timestamp: 2024-09-22 20:29:56
+
+
+
+plate 7093 H R D with Class ID 7 crossed line 2:
+
+  - Minimum Distance: 2.24, Timestamp: 2024-09-22 20:29:56
+
+plate 8135 A U D with Class ID 2 crossed 4 distinct lines:
+
+  - Line ID: 1, Minimum Distance: 3.00, Timestamp: 2024-09-22 20:31:40
+
+  - Line ID: 2, Minimum Distance: 1.00, Timestamp: 2024-09-22 20:31:44
+
+  - Line ID: 3, Minimum Distance: 1.00, Timestamp: 2024-09-22 20:32:58
+
+  - Line ID: 0, Minimum Distance: 1.00, Timestamp: 2024-09-24 13:39:022024-10-05 18:55:42 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 1.37 seconds
+2024-10-05 18:55:42 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 1.37 seconds
+2024-10-05 18:55:44 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 1.37 seconds
+2024-10-05 18:55:45 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 1.37 seconds
+2024-10-05 18:55:47 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 1.47 seconds
+2024-10-05 18:56:24 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 2.30 seconds
+2024-10-05 18:56:26 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 2.30 seconds
+2024-10-05 18:56:27 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 2.30 seconds
+2024-10-05 18:56:29 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 2.40 seconds
+2024-10-05 18:56:30 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 2.40 seconds
+2024-10-05 18:56:32 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 2.40 seconds
+2024-10-05 18:56:33 - Violation type: 1 - ALERT: Object ID: 8 (Class: 0) crossed more than 4 lines in 2.50 seconds
+2024-10-05 19:25:27 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 0.80 seconds
+2024-10-05 19:26:02 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.63 seconds
+2024-10-05 19:26:03 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.63 seconds
+2024-10-05 19:26:04 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.63 seconds
+2024-10-05 19:26:06 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.74 seconds
+2024-10-05 19:26:07 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.74 seconds
+2024-10-05 19:26:08 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.74 seconds
+2024-10-05 19:26:10 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.84 seconds
+2024-10-05 21:18:06 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 0.80 seconds
+2024-10-05 21:18:44 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.63 seconds
+2024-10-05 21:18:46 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.63 seconds
+2024-10-05 21:18:47 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.63 seconds
+2024-10-05 21:18:49 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.74 seconds
+2024-10-05 21:18:50 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.74 seconds
+2024-10-05 21:18:52 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.74 seconds
+2024-10-05 21:18:53 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 1.84 seconds
+2024-10-05 22:07:25 - Violation type: 1 - ALERT: Object ID: 9 (Class: 0) crossed more than 4 lines in 0.80 seconds
